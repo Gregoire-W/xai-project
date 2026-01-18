@@ -1,0 +1,5 @@
+model_creation/audio/data/*
+model_creation/image/data/*
+*.png
+*.keras
+*.pyc

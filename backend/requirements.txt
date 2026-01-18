@@ -1,0 +1,12 @@
+fastapi[standard]
+uvicorn[standard]
+librosa
+tf-explain
+lime
+shap
+tensorflow
+numpy
+matplotlib
+Pillow
+scikit-image
+opencv-python-headless
